@@ -162,7 +162,7 @@ export const projects = [
         theme: 'btn-back-orange',
         name: 'Nepal eMarket',
         description: 'Developed a eCommerce web application for the customer related to busying goods online and paying using diofferent payment gateways with offers.',
-        link: 'https://www.nepalemark',
+        link: 'https://www.nepalemarket.com/',
     },
     {
         iconUrl: sl,
