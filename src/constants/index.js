@@ -128,7 +128,7 @@ export const socialLinks = [
     {
         name: 'Contact',
         iconUrl: contact,
-        link: 'https://api.whatsapp.com/send/?phone=%2B917488360807&text&type=phone_number&app_absent=0',
+        link: 'https://api.whatsapp.com/send/?phone=%2B917368970085&text&type=phone_number&app_absent=0',
     },
     {
         name: 'GitHub',
